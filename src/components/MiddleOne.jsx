@@ -2,7 +2,7 @@ import React from 'react'
 import imageone from '../assets/image1.png'
 const MiddleOne = () => {
   return (
-    <div className='h-[572.82px] md:h-[370px] flex flex-col items-center justify-center md:flex-row'>
+    <div className='h-[572.82px] md:h-[370px] flex flex-col items-center justify-center md:flex-row mb-10'>
         <div className=''> <img src={imageone}  alt="imageone" className='w-[275px] h-[275.82px] lg:w-[346px] lg:h-[346px]'/></div>
         <div className='text-center w-[335px] md:text-justify md:w-[393px] lg:w-[530px]'>
             <div className='font-[600] text-[#6B3CC9] text-[27px] md:text-start lg:mb-5'><p >Web & Mobile App Development</p></div>

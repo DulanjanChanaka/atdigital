@@ -5,8 +5,8 @@ function MiddleTwo() {
   return (
 
 <div className='h-[572.82px] md:h-[370px] flex flex-col md:flex-row items-center justify-center pb-[90px] '>
-  <div className='order-2 md:order-1 text-center md:text-justify md:w-[393px] lg:w-[530px]  '>
-    <div className='font-[600] text-[#6B3CC9] text-[27px] md:text-start lg:mb-5'>
+  <div className='order-2 md:order-1 text-center md:text-justify md:w-[393px] lg:w-[530px]  w-[335px]'>
+    <div className='font-[600] text-[#6B3CC9] text-[27px] md:text-start lg:mb-5 mb-2'>
       <p >Digital Strategy Consulting</p>
     </div>
     <div style={{ paddingBottom: "35px" }}>
